@@ -1,4 +1,4 @@
-Summary
+Summary:
 The bot uses Google dialog-flow (formerly api.ai) to create a general-purpose chat-bot that is
 capable of small-talk.
 
@@ -6,22 +6,22 @@ Tech Stack used :
 node.js
 dialog-flow (api.ai)
 
-Available integration channels
+Available integration channels:
 Microsoft Cortana, Facebook Messenger, Skype, Slack, Telegram, Amazon Alexa, Twitter, Kik,
 Line, Cisco Spark, Cisco Tropo, Twilio and Twilio IP
 
-Language Support
+Language Support:
 English, French, Dutch, Russian, Ukranian, Italian, German, Spanish, Korean, Brazilian
 Portuguese,Traditional Chinese, Simplified Chinese, Portuguese, Japanese
 
-Usage Instructions :
+Usage Instructions:
 Visit the below URL where the chat has been deployed.
 https://bot.dialogflow.com/vishallambe
 
-GitHub repository :
+GitHub repository:
 https://github.com/vishallambe/ai_bot_vishal
 
-Benefits of using Google’s dialog-flow over AWS Lex or IBM Watson
+Benefits of using Google’s dialog-flow over AWS Lex or IBM Watson:
 1. Exceptionally good at training ML models in real-time for small talk and conversational evolving
 inputs.
 2. Easily integrated with third party API’s to get results for web search, weather information,
